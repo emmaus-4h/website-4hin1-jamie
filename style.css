@@ -23,8 +23,8 @@
 }
 
 html, body {                      /* geldt voor html en body */
-  background-color: #EEEEEE;    /* achtergrondkleur lichtgrijs */
-  color: #303030;               /* tekstkleur donkergrijs */
+  background-color: darkgrey;    /* achtergrondkleur lichtgrijs */
+  color:black;               /* tekstkleur donkergrijs */
 }  
 
 div {                             /* geldt voor div */
@@ -55,7 +55,7 @@ main {
 h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 10px 0px;
   text-align: center;             /* tekst centreren */
-  color: skyblue;
+  color:red;
 } 
 
 p {
@@ -68,7 +68,7 @@ img {
 }
 
 a {
-  color: skyblue;
+  color: blue;
   text-decoration: none;
 }
 
@@ -79,6 +79,7 @@ a:hover {                         /* <a> als je er met de muis op staat */
 .smalltext {
   text-align: center;
   font-size: 0.7em;
+  color:red;
 }
 
 /************************* NAVIGATIEBALK *************************/
@@ -89,7 +90,7 @@ nav ul {                        /* <ul> die child is van <nav> */
   list-style-type: none;
   margin: auto;
   padding: 0;
-  background-color: #dddddd;
+  background-color:lightgrey;
   overflow: hidden;
 }
 
@@ -99,18 +100,18 @@ nav ul li {                     /* <li> die child is van <ul> die op zijn beurt 
 
 nav li a {
   display: block;
-  color: white;
+  color:red;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 nav li a:hover {
-  background-color: #aaaaaa;
+  background-color: skyblue;
 }
 
 nav li a.active {
-  background-color: skyblue;
+  background-color: white;
 }
 
 
@@ -136,3 +137,8 @@ nav li a.active {
 /* Indeling en opmaak voor subpagina */
 
 /* verzin deze zelf... */
+.Duitsland-info{
+  color:green;
+  background-color:white;
+}
+
