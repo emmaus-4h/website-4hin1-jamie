@@ -68,7 +68,7 @@ img {
 }
 
 a {
-  color: blue;
+  color: lightblue;
   text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ a:hover {                         /* <a> als je er met de muis op staat */
 .smalltext {
   text-align: center;
   font-size: 0.7em;
-  color:red;
+  color:black;
 }
 
 /************************* NAVIGATIEBALK *************************/
