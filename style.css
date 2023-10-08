@@ -24,7 +24,7 @@
 
 html, body {                      /* geldt voor html en body */
   background-color: darkgray;    /* achtergrondkleur lichtgrijs */
-  color:gold;               /* tekstkleur donkergrijs */
+  color:lightblue;               /* tekstkleur donkergrijs */
 }  
 
 div {                             /* geldt voor div */
@@ -55,7 +55,7 @@ main {
 h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 10px 0px;
   text-align: center;             /* tekst centreren */
-  color:red;
+  color:black;
 } 
 
 p {
@@ -68,7 +68,7 @@ img {
 }
 
 a {
-  color: lightblue;
+  color: gold;
   text-decoration: none;
 }
 
@@ -107,7 +107,7 @@ nav li a {
 }
 
 nav li a:hover {
-  background-color: skyblue;
+  background-color:cadetblue;
 }
 
 nav li a.active {
