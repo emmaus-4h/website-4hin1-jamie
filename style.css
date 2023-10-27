@@ -132,6 +132,14 @@ nav li a.active {
   width: 450px;
 }
 
+.home-box {
+
+ background-color: white;
+  width: 750px;
+  height: 500px;
+  
+}
+
 /************************* SUBPAGINA *************************/
 
 /* Indeling en opmaak voor subpagina */
