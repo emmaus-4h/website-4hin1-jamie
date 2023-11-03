@@ -136,9 +136,24 @@ nav li a.active {
 
  background-color: white;
   width: 750px;
-  height: 500px;
+  height:750px;
   
 }
+
+
+.box-plaatje-tekst {
+
+  background-color:lightblue ;
+  width: 699px;
+  height: 250px ;
+
+  border:5px solid red;
+  border-radius: 5px;
+  
+  
+}
+
+
 
 /************************* SUBPAGINA *************************/
 
