@@ -135,8 +135,13 @@ nav li a.active {
 .home-box {
 
  background-color: white;
-  width: 750px;
+  width: 700px;
   height:750px;
+  border-width:5px;
+  border-style: solid;
+  border-color:blue;
+  border-radius: 10px;
+
   
 }
 
@@ -144,13 +149,19 @@ nav li a.active {
 .box-plaatje-tekst {
 
   background-color:lightblue ;
-  width: 699px;
+  width: 690px;
   height: 250px ;
   border-width:5px;
   border-style:solid;
   border-color: black;
-  border-radius: 5px;
+  border-radius: 6px;
   
+  
+}
+
+.vlag-box {
+  width: 350px;
+  height: 300px;
   
 }
 
@@ -170,5 +181,9 @@ nav li a.active {
 
 }
 
+plaatjes:
+https://www.reisgraag.nl/pictures/Landen/Duitsland/foto_Branden_burger_Tor_in_Berlijn.jpg/onaangepast_Branden_burger_Tor_in_Berlijn.jpg
+https://media-cdn.tripadvisor.com/media/photo-s/08/6b/ee/0f/a-friendly-venue-for.jpg
+https://www.hunsruecktouristik.de/media/92f0817b-f5b5-46c6-a2cd-d9be30fb606a/geierlay-2015-044-dominik-ketz.jpg?w=1500&h=1000&q=85&action=crop&sh=3dc2c
 
 
