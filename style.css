@@ -52,11 +52,17 @@ main {
   text-align: justify;            /* tekst links en rechts uitvullen */
 }
 
-h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
+h1, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 10px 0px;
   text-align: center;             /* tekst centreren */
   color:black;
 } 
+
+h2 {
+  margin: 5px 0px;
+  text-align: center;
+  color: black;
+}
 
 p {
   margin: 10px 0px;
@@ -68,7 +74,7 @@ img {
 }
 
 a {
-  color: gold;
+  color:blue;
   text-decoration: none;
 }
 
@@ -175,11 +181,26 @@ nav li a.active {
 .Duitsland-info{
   color:green;
   
+ 
+  
+}
+
+#duitsekeizerrijk {
+
+  width: 250px;
+  height: 200px;
+
 }
 .cultuur-duitsland {
   color:darkblue;
 
 }
+
+.Foto-beschrijving {
+
+  color: white;
+}
+
 
 plaatjes:
 https://www.reisgraag.nl/pictures/Landen/Duitsland/foto_Branden_burger_Tor_in_Berlijn.jpg/onaangepast_Branden_burger_Tor_in_Berlijn.jpg
