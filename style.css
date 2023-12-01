@@ -178,7 +178,7 @@ nav li a.active {
 /* Indeling en opmaak voor subpagina */
 
 /* verzin deze zelf... */
-.Duitsland-info{
+.Duitsland-info {
   color:green;
   
  
@@ -199,6 +199,17 @@ nav li a.active {
 .Foto-beschrijving {
 
   color: white;
+}
+
+.geschiedenis-duitsland {
+
+  color: green ;
+}
+
+.plaatje-kaart {
+
+  wdith: 350px;
+  height: 300px;
 }
 
 
