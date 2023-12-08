@@ -185,14 +185,14 @@ nav li a.active {
   
 }
 
+.Duitsland-informatie {
+  color: green;
+}
+
 #duitsekeizerrijk {
 
   width: 250px;
   height: 200px;
-
-}
-.cultuur-duitsland {
-  color:darkblue;
 
 }
 
@@ -212,10 +212,38 @@ nav li a.active {
   height: 300px;
 }
 
+.berlijnse-boog {
 
-plaatjes:
-https://www.reisgraag.nl/pictures/Landen/Duitsland/foto_Branden_burger_Tor_in_Berlijn.jpg/onaangepast_Branden_burger_Tor_in_Berlijn.jpg
-https://media-cdn.tripadvisor.com/media/photo-s/08/6b/ee/0f/a-friendly-venue-for.jpg
-https://www.hunsruecktouristik.de/media/92f0817b-f5b5-46c6-a2cd-d9be30fb606a/geierlay-2015-044-dominik-ketz.jpg?w=1500&h=1000&q=85&action=crop&sh=3dc2c
+  width:350px;
+  height: 300px;
+  border: 5px solid blueviolet;
+}
+
+.Foto-politiek  {
+
+  width: 400px;
+  height: 300px;
+  border: 5 px;
+  border-color: red;
+  border-width: 5px;
+  border-style: solid;
+}
+
+.Duitsland-Vakantie {
+  color: green ;
+  
+}
+
+.landschap-eifel {
+
+  height:300px;
+  width:500px;
+  border: 5px ;
+  border-color: white;
+  border-style: solid;
+}
+
+
+
 
 
