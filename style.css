@@ -243,6 +243,19 @@ nav li a.active {
   border-style: solid;
 }
 
+.Vakantie-box {
+
+  background-color: cadetblue;
+  width: 700px;
+  height: 200px;
+  border-width: 5px;
+  border-color: indianred;
+  border-style: solid;
+  border-radius: 6px;
+  
+
+}
+
 
 
 
