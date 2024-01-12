@@ -187,23 +187,26 @@ nav li a.active {
 
 .Duitsland-informatie {
   color: green;
+  text-align: center ;
 }
 
 #duitsekeizerrijk {
 
   width: 250px;
   height: 200px;
-
+ 
 }
 
 .Foto-beschrijving {
 
-  color: white;
+  color: #a72f2f;
+ 
 }
 
 .geschiedenis-duitsland {
 
-  color: green ;
+  color: black ;
+  text-align: center ;
 }
 
 .plaatje-kaart {
@@ -216,7 +219,9 @@ nav li a.active {
 
   width:350px;
   height: 300px;
-  border: 5px solid blueviolet;
+  border: 5px ;
+  border-color: blue ;
+  border-style: solid ;
 }
 
 .Foto-politiek  {
@@ -224,13 +229,14 @@ nav li a.active {
   width: 400px;
   height: 300px;
   border: 5 px;
-  border-color: red;
+  border-color: white;
   border-width: 5px;
   border-style: solid;
 }
 
 .Duitsland-Vakantie {
   color: green ;
+  text-align: center;
   
 }
 
@@ -239,7 +245,7 @@ nav li a.active {
   height:300px;
   width:500px;
   border: 5px ;
-  border-color: white;
+  border-color: cyan;
   border-style: solid;
 }
 
@@ -247,13 +253,36 @@ nav li a.active {
 
   background-color: lightblue;
   width: 700px;
-  height: 200px;
+  height: 840x;
   border-width: 5px;
   border-color: white;
   border-style: solid;
   border-radius: 6px;
   
+  
 
+}
+
+.Informatie-Duitsland {
+  
+  background-color: skyblue;
+  width: 700px ;
+  height: 1500px ;
+  border-width: 8px ;
+  border-color: greenyellow ; 
+  border-style: dashed ;
+  border-radius: 6px;
+}
+
+.Duitse-Gechiedenis{
+
+  background-color: #00ffbf ;
+  border-color: white ;
+  border-radius: 10px ;
+  border-width: 4px;
+  height: 2300px ;
+  width: 700px ;
+  border-style: solid ;
 }
 
 
