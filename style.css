@@ -140,35 +140,47 @@ nav li a.active {
 
 .home-box {
 
- background-color: white;
+ background-color: dodgerblue;
   width: 700px;
-  height:750px;
-  border-width:5px;
+  height:570px;
+  border-width:2px;
   border-style: solid;
-  border-color:blue;
+  border-color:black;
   border-radius: 10px;
+ }
 
+.hamburg {
   
+  width: 270px ;
+  height: 300px ;
+  align-items: left ;
 }
 
 
-.box-plaatje-tekst {
-
-  background-color:lightblue ;
-  width: 690px;
-  height: 250px ;
-  border-width:5px;
+.vlag-box {
+  width: 700px ;
+  height: 400px;
+  border-width:2px;
   border-style:solid;
   border-color: black;
   border-radius: 6px;
-  
+  background-color: deepskyblue ;
+  border-radius: 10px ;
   
 }
 
-.vlag-box {
-  width: 350px;
-  height: 300px;
+
+.home-text-1 {
+
+  color: white ;
+  text-align: center ;
   
+}
+
+.home-text-2 {
+
+  color: red ;
+  text-align: left ;
 }
 
 
